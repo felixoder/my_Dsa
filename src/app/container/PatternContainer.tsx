@@ -1,9 +1,11 @@
 import Link from "next/link";
 
-export default function BigContainerPage() {
+export default function PatternContainer() {
   return (
     <div>
-      <h1 className="font-bold text-xl text-center mb-5">Chapter 1 - Patterns [Basic]</h1>
+      <h1 className="font-bold text-xl text-center mb-5">
+        Chapter 1 - Patterns [Basic]
+      </h1>
       <div className="flex justify-center items-center flex-col gap-5">
         <Link href="https://www.naukri.com/code360/problems/n-forest_6570177">
           1. N- Forest Pattern <span className="text-green-400">Easy</span>

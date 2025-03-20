@@ -1,5 +1,4 @@
 import Link from "next/link";
-import Footer from "../container/Footer";
 import { Suspense } from "react";
 
 export default function Home() {

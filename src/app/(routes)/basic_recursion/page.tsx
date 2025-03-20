@@ -8,14 +8,14 @@ export default function RecursionPage() {
       </h1>
       <div className="flex justify-center items-center flex-col gap-5">
         <Link href="https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1">
-          1. Print 1 to n without using Loops{" "}
+          1. Print 1 to n without using Loops
           <span className="text-green-400">Easy</span>
         </Link>
         <Link href="https://www.geeksforgeeks.org/problems/print-gfg-n-times/1">
-          2. Print "GFG" n times <span className="text-green-400">Easy</span>
+          2. Print GFG n times <span className="text-green-400">Easy</span>
         </Link>
         <Link href="https://www.geeksforgeeks.org/problems/print-n-to-1-without-loop/1">
-          3. Print n to 1 without using Loop{" "}
+          3. Print n to 1 without using Loop
           <span className="text-green-400">Easy</span>
         </Link>
         <Link href="https://www.geeksforgeeks.org/problems/sum-of-first-n-terms5843/1">

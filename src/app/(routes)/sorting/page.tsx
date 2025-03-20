@@ -1,8 +1,8 @@
 import Link from "next/link";
 
-export default function SortingPage(){
-  return(
-<div>
+export default function SortingPage() {
+  return (
+    <div>
       <h1 className="font-bold text-xl text-center mb-5">
         Chapter 5 - Sorting
       </h1>
@@ -21,19 +21,18 @@ export default function SortingPage(){
           4. Merge Sort <span className="text-orange-400">Medium</span>
         </Link>
         <Link href="https://www.geeksforgeeks.org/problems/bubble-sort/1">
-          5. Recursive Bubble Sort <span className="text-orange-400">Medium</span>
+          5. Recursive Bubble Sort{" "}
+          <span className="text-orange-400">Medium</span>
         </Link>
         <Link href="https://www.geeksforgeeks.org/problems/insertion-sort/1">
           6. Recursive Insertion Sort
           <span className="text-orange-400">Medium</span>
         </Link>
-         <Link href="https://www.geeksforgeeks.org/problems/quick-sort/1">
+        <Link href="https://www.geeksforgeeks.org/problems/quick-sort/1">
           7. Quick Sort
           <span className="text-orange-400">Medium</span>
         </Link>
-        </div>
+      </div>
     </div>
-
-
-  )
+  );
 }

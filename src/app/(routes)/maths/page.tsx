@@ -1,8 +1,8 @@
 import Link from "next/link";
 
-export default function MathsPage(){
-  return(
-      <div>
+export default function MathsPage() {
+  return (
+    <div>
       <h1 className="font-bold text-xl text-center mb-5">
         Chapter 2 - Maths [Basic]
       </h1>
@@ -11,7 +11,8 @@ export default function MathsPage(){
           1. Count Digits <span className="text-green-400">Easy</span>
         </Link>
         <Link href="https://leetcode.com/problems/reverse-integer/">
-          2. Reverse Number Leetcode 7 <span className="text-orange-400">Medium</span>
+          2. Reverse Number Leetcode 7{" "}
+          <span className="text-orange-400">Medium</span>
         </Link>
         <Link href="https://leetcode.com/problems/palindrome-number/">
           3. Pallindrome Number <span className="text-green-400">Easy</span>
@@ -26,12 +27,11 @@ export default function MathsPage(){
           6. Find Prime Numbers
           <span className="text-green-400">Easy</span>
         </Link>
-         <Link href="https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1">
+        <Link href="https://www.geeksforgeeks.org/problems/lcm-and-gcd4516/1">
           7. LCM and GCD
           <span className="text-green-400">Easy</span>
         </Link>
       </div>
     </div>
-
-  )
+  );
 }

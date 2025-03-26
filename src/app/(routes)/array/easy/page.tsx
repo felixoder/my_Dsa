@@ -7,7 +7,7 @@ export default function ArrayEasyPage() {
       <h1 className="font-bold text-xl text-center mb-5">
         Chapter 5 -  Array
       </h1>
-        <p className="text-green-500 font-small text-md text-center mt-2 mb-2">
+        <p className="text-green-500 font-small text-md text-center mt-2 mb-2 text-green-400">
             EASY        
         </p>
       <div className="flex justify-center items-center flex-col gap-5">

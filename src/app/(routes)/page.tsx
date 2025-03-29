@@ -13,7 +13,8 @@ export default function Home() {
           <Link href="/basic_recursion">Chapter 3 - Basic Recursion</Link>
           <Link href="/basic_hashing">Chapter 4 - Basic Hashing</Link>
           <Link href="/sorting">Chapter 5 - Sorting</Link>
-          <Link href="/array/easy">Chapter 6: Array <span className="ml-2 text-green-400">Easy</span></Link>
+          <Link href="/array/easy">Chapter 6: Array Easy<span className="ml-2 text-green-400">Easy</span></Link>
+          <Link href="/array/medium">Chapter 7: Array Medium<span className="ml-2 text-orange-400">Medium</span></Link>
         </Suspense>
       </div>
     </div>

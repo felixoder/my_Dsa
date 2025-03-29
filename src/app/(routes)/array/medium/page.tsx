@@ -15,16 +15,16 @@ export default function ArrayMediumPage() {
           <span className="text-green-400">Medium</span>
         </Link>
         <Link href="https://leetcode.com/problems/sort-colors/description/">
-          2. Sort an array of 0's 1's and 2's <span className="font-bold text-md ml-1 mr-1">DUTCH NATIONAL FLAG ALGORITHM</span>
+          2. Sort an array of 0&apos;s 1&apos;s and 2&apos;s <span className="font-bold text-md ml-1 mr-1">DUTCH NATIONAL FLAG ALGORITHM</span>
           <span className="text-orange-400">Medium</span>
         </Link>
         <Link href="https://leetcode.com/problems/majority-element/description/">
           3. Majority Element greater than n/2 times  
-        <span className="font-bold text-md ml-1 mr-1">MOORE'S VOTING ALGORITHM</span>
+        <span className="font-bold text-md ml-1 mr-1">MOORE&apos;S VOTING ALGORITHM</span>
           <span className="text-orange-400">Medium</span>
         </Link>
         <Link href="https://leetcode.com/problems/maximum-subarray/">
-          4. Kadane's Algorithm, maximum subarray sum. ALSO GET HOW TO PRINT THE SUBARRAY
+          4. Kadane&apos;s Algorithm, maximum subarray sum. ALSO GET HOW TO PRINT THE SUBARRAY
           <span className="text-orange-400">Medium</span>
         </Link>
         <Link href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">

@@ -24,7 +24,8 @@ export default function ArrayMediumPage() {
           <span className="text-orange-400">Medium</span>
         </Link>
         <Link href="https://leetcode.com/problems/maximum-subarray/">
-          4. Kadane&apos;s Algorithm, maximum subarray sum. ALSO GET HOW TO PRINT THE SUBARRAY
+          4. Maximum subarray sum. ALSO GET HOW TO PRINT THE SUBARRAY
+          <span className="font-bold text-md ml-1 mr-1">KADANE&apos;S ALGORITHM</span>
           <span className="text-orange-400">Medium</span>
         </Link>
         <Link href="https://leetcode.com/problems/best-time-to-buy-and-sell-stock/">
